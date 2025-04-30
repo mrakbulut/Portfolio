@@ -1,0 +1,18 @@
+{
+    "name": "Portfolio.Upgradeables.Editor",
+    "rootNamespace": "Portfolio.Upgradeables.Editor",
+    "references": [
+        "GUID:3354237f3b880f44b99dab76a31109eb"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

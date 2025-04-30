@@ -1,0 +1,18 @@
+{
+    "name": "Portfolio.Leveling.Editor",
+    "rootNamespace": "Portfolio.Leveling.Editor",
+    "references": [
+        "GUID:5afc3b9951c099e4d932a5a80b189fca"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

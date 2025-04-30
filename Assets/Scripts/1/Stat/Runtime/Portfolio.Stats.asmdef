@@ -1,0 +1,16 @@
+{
+    "name": "Portfolio.Stats",
+    "rootNamespace": "Portfolio.Stats",
+    "references": [
+        "GUID:6a26835e3f6e4c74685e84f5009ac0b0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

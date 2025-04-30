@@ -1,0 +1,17 @@
+{
+    "name": "Portfolio.Upgradeables",
+    "rootNamespace": "Portfolio.Upgradeables",
+    "references": [
+        "GUID:6a26835e3f6e4c74685e84f5009ac0b0",
+        "GUID:377f963d2ecb2394faa1b2d49fb087a5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

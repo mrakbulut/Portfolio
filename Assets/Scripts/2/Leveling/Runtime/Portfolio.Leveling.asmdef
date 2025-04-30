@@ -1,0 +1,17 @@
+{
+    "name": "Portfolio.Leveling",
+    "rootNamespace": "Portfolio.Leveling",
+    "references": [
+        "GUID:647321d29425e4745b475f1fef06ef64",
+        "GUID:6a26835e3f6e4c74685e84f5009ac0b0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

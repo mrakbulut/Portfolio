@@ -1,0 +1,18 @@
+{
+    "name": "Portfolio.InitialLoads.Editor",
+    "rootNamespace": "Portfolio.InitialLoads.Editor",
+    "references": [
+        "GUID:fc292cbfa36a41d49b0c60c4d165e5e0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

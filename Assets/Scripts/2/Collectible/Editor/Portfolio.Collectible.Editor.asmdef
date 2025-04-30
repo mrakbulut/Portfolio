@@ -1,0 +1,18 @@
+{
+    "name": "Portfolio.Collectible.Editor",
+    "rootNamespace": "Portfolio.Collectible.Editor",
+    "references": [
+        "GUID:647321d29425e4745b475f1fef06ef64"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

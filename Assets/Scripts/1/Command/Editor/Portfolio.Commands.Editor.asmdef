@@ -1,0 +1,18 @@
+{
+    "name": "Portfolio.Commands.Editor",
+    "rootNamespace": "Portfolio.Commands.Editor",
+    "references": [
+        "GUID:77fc7261da521644a9bbbb2eed466460"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

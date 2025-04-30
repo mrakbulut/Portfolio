@@ -1,0 +1,19 @@
+{
+    "name": "Portfolio.InitialLoads",
+    "rootNamespace": "Portfolio.InitialLoads",
+    "references": [
+        "GUID:6a26835e3f6e4c74685e84f5009ac0b0",
+        "GUID:77fc7261da521644a9bbbb2eed466460",
+        "GUID:ce75b42ee38224947bd4819a181ab90d",
+        "GUID:0cd33c57065942f43acbafe826b96454"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

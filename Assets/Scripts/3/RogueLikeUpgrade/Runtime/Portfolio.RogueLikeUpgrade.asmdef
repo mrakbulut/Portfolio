@@ -1,0 +1,19 @@
+{
+    "name": "Portfolio.RogueLikeUpgrade",
+    "rootNamespace": "Portfolio.RogueLikeUpgrade",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:3354237f3b880f44b99dab76a31109eb",
+        "GUID:5afc3b9951c099e4d932a5a80b189fca",
+        "GUID:6a26835e3f6e4c74685e84f5009ac0b0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

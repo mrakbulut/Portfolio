@@ -1,0 +1,18 @@
+{
+    "name": "Portfolio.Stat.Editor",
+    "rootNamespace": "Portfolio.Stats.Editor",
+    "references": [
+        "GUID:377f963d2ecb2394faa1b2d49fb087a5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

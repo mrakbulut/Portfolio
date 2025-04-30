@@ -1,0 +1,18 @@
+{
+    "name": "Portfolio.SceneLoad.Editor",
+    "rootNamespace": "Portfolio.SceneLoad.Editor",
+    "references": [
+        "GUID:ce75b42ee38224947bd4819a181ab90d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
