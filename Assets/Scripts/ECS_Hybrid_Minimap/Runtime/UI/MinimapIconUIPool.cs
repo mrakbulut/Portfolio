@@ -2,8 +2,7 @@ using System.Collections.Generic;
 using Sirenix.OdinInspector;
 using UnityEngine;
 using UnityEngine.Pool;
-
-namespace Boshphelm.Minimap
+namespace Portfolio.Minimap
 {
     public class MinimapIconUIPool : MonoBehaviour
     {
@@ -27,9 +26,9 @@ namespace Boshphelm.Minimap
         [SerializeField]
         private int _maxPoolSize = 40;
 
-        private IObjectPool<MinimapIconUI> _pool;
-
         private readonly List<MinimapIconUI> _activeMinimapIconUIs = new List<MinimapIconUI>();
+
+        private IObjectPool<MinimapIconUI> _pool;
 
         public void Initialize()
         {

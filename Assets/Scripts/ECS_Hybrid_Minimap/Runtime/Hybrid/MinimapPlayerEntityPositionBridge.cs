@@ -2,7 +2,7 @@ using Unity.Entities;
 using Unity.Transforms;
 using UnityEngine;
 
-namespace Boshphelm.Minimap
+namespace Portfolio.Minimap
 {
     public class MinimapPlayerEntityPositionBridge
     {

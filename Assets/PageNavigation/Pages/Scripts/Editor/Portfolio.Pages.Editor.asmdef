@@ -1,0 +1,18 @@
+{
+    "name": "Portfolio.Pages.Editor",
+    "rootNamespace": "Portfolio.Pages.Editor",
+    "references": [
+        "GUID:bb7a0553a665f4b4c89442983405ed1e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

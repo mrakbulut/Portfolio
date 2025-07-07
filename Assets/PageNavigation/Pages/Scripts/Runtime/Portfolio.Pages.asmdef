@@ -1,12 +1,8 @@
 {
-    "name": "Boshphelm.Minimap.Editor",
-    "rootNamespace": "Boshphelm.Minimap.Editor",
-    "references": [
-        "GUID:7861d26130809a444a48b538f391886a"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "name": "Portfolio.Pages",
+    "rootNamespace": "Portfolio.Pages",
+    "references": [],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

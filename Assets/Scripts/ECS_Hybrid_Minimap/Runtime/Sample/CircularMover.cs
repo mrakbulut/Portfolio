@@ -1,5 +1,5 @@
 using UnityEngine;
-namespace Boshphelm.Minimap
+namespace Portfolio.Minimap
 {
     public class CircularMover
     {

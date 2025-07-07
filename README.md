@@ -11,6 +11,7 @@ These modules can be upgraded during game development and various structures can
               
 Features;
 ECS_MonoB_Hybrid_Minimap - no need for second camera.
+Pages, NavigationBar and PageNavigation For Mobile Test Scene.
 
 Utility can be used by all modules, so it is kept separate.
 

@@ -1,0 +1,16 @@
+{
+    "name": "Portfolio.NavigationBar",
+    "rootNamespace": "Portfolio.NavigationBars",
+    "references": [
+        "GUID:679c9c90c01f3524b9d8d5dee009a784"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -4,7 +4,7 @@ using Unity.Entities;
 using Unity.Jobs;
 using Unity.Mathematics;
 
-namespace Boshphelm.Minimap
+namespace Portfolio.Minimap
 {
     [UpdateInGroup(typeof(SimulationSystemGroup))]
     [UpdateAfter(typeof(MinimapWorldPositionUpdateSystem))]

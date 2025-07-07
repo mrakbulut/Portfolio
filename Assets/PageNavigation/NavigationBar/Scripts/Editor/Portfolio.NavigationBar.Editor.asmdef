@@ -1,0 +1,18 @@
+{
+    "name": "Portfolio.NavigationBar.Editor",
+    "rootNamespace": "Portfolio.NavigationBar.Editor",
+    "references": [
+        "GUID:7615f9cc44e0771429c7f4990e194459"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -4,7 +4,7 @@ using Unity.Collections;
 using Unity.Entities;
 using UnityEngine;
 using UnityEngine.UI;
-namespace Boshphelm.Minimap
+namespace Portfolio.Minimap
 {
     public class MinimapHybridManager : MonoBehaviour
     {

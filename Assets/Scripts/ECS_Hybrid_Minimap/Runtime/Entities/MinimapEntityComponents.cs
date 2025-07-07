@@ -1,7 +1,7 @@
 using Unity.Entities;
 using Unity.Mathematics;
 
-namespace Boshphelm.Minimap
+namespace Portfolio.Minimap
 {
     public struct MinimapSettings : IComponentData
     {

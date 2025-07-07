@@ -2,7 +2,7 @@ using Sirenix.OdinInspector;
 using Unity.Entities;
 using UnityEngine;
 
-namespace Boshphelm.Minimap
+namespace Portfolio.Minimap
 {
     public class MinimapSettingsManager : MonoBehaviour
     {

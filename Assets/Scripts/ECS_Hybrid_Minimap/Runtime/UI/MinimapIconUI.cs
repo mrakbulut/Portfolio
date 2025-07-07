@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Pool;
 using UnityEngine.UI;
 
-namespace Boshphelm.Minimap
+namespace Portfolio.Minimap
 {
     public class MinimapIconUI : MonoBehaviour
     {
